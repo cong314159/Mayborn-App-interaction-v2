@@ -1,0 +1,5 @@
+D:\dev\Apps\multi_source_frame\multi_source_frame\obj\Debug\MainWindow.g.cs
+D:\dev\Apps\multi_source_frame\multi_source_frame\obj\Debug\App.g.cs
+D:\dev\Apps\multi_source_frame\multi_source_frame\obj\Debug\multi_source_frame_MarkupCompile.cache
+D:\dev\Apps\multi_source_frame\multi_source_frame\obj\Debug\multi_source_frame_MarkupCompile.lref
+D:\dev\Apps\multi_source_frame\multi_source_frame\obj\Debug\multi_source_frame.csprojAssemblyReference.cache
